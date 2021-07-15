@@ -1,0 +1,8 @@
+
+BTC
+position: buy
+entry: 57212.575
+close: 56979.168
+profit: -0.82%
+win: 1 loss: 0
+

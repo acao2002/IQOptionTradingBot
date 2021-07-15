@@ -1,0 +1,116 @@
+
+Volswagen
+position: buy
+entry: 212.0
+close: 211.89999999999998
+profit: -0.24%
+
+
+Volswagen
+position: sell
+entry: 211.825
+close: 212.05
+profit: -0.53%
+
+
+Volswagen
+position: sell
+entry: 211.54999999999998
+close: 211.8
+profit: -0.59%
+
+
+Volswagen
+position: sell
+entry: 211.5
+close: 211.75
+profit: -0.59%
+
+
+Volswagen
+position: sell
+entry: 211.45
+close: 211.75
+profit: -0.71%
+
+
+Volswagen
+position: buy
+entry: 212.4
+close: 212.04999999999998
+profit: -0.82%
+
+
+Volswagen
+position: sell
+entry: 211.975
+close: 212.3
+profit: -0.77%
+
+
+Volswagen
+position: sell
+entry: 211.575
+close: 211.875
+profit: -0.71%
+
+
+Volswagen
+position: buy
+entry: 211.95000000000002
+close: 211.625
+profit: -0.77%
+
+
+Volswagen
+position: buy
+entry: 211.95000000000002
+close: 211.64999999999998
+profit: -0.71%
+
+
+Volswagen
+position: buy
+entry: 211.375
+close: 211.625
+profit: 0.59%
+
+
+Volswagen
+position: sell
+entry: 211.29999999999998
+close: 211.3
+profit: -0.00%
+
+
+Volswagen
+position: sell
+entry: 208.14999999999998
+close: 208.025
+profit: 0.30%
+win: 1 loss: 0
+
+
+Volswagen
+position: buy
+entry: 208.625
+close: 208.825
+profit: 0.48%
+win: 2 loss: 0
+
+
+Volswagen
+position: buy
+entry: 209.3
+close: 209.79999999999998
+profit: 1.19%
+win: 1 loss: 0
+
+
+Volswagen
+position: buy
+entry: 210.10000000000002
+close: 209.77499999999998
+profit: -0.77%
+win: 0 loss: 1
+

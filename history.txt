@@ -1,0 +1,154 @@
+
+Volswagen
+position: buy
+entry: 211.07500000000002
+close: 210.75
+profit: -0.77%
+
+
+Volswagen
+position: sell
+entry: 210.225
+close: 209.70000000000002
+profit: 1.25%
+
+
+Volswagen
+position: sell
+entry: 209.375
+close: 209.9
+profit: -1.25%
+
+
+Volswagen
+position: buy
+entry: 210.20000000000002
+close: 209.89999999999998
+profit: -0.71%
+
+
+Volswagen
+position: buy
+entry: 210.55
+close: 210.25
+profit: -0.71%
+
+
+Volswagen
+position: sell
+entry: 209.67499999999998
+close: 210.025
+profit: -0.83%
+
+
+Volswagen
+position: sell
+entry: 209.725
+close: 209.275
+profit: 1.07%
+
+
+Volswagen
+position: sell
+entry: 208.875
+close: 209.175
+profit: -0.72%
+
+
+Volswagen
+position: sell
+entry: 209.02499999999998
+close: 209.375
+profit: -0.84%
+
+
+Volswagen
+position: buy
+entry: 209.875
+close: 209.725
+profit: -0.36%
+
+
+Volswagen
+position: sell
+entry: 209.52499999999998
+close: 209.675
+profit: -0.36%
+
+
+Volswagen
+position: buy
+entry: 209.85000000000002
+close: 210.075
+profit: 0.54%
+
+
+Volswagen
+position: sell
+entry: 210.0
+close: 210.3
+profit: -0.71%
+
+
+Volswagen
+position: sell
+entry: 210.0
+close: 210.20000000000002
+profit: -0.48%
+
+
+Volswagen
+position: sell
+entry: 209.79999999999998
+close: 210.05
+profit: -0.60%
+
+
+Volswagen
+position: buy
+entry: 210.15
+close: 209.85
+profit: -0.71%
+
+
+BTC
+position: sell
+entry: 58753.836
+close: 58949.727
+profit: -1.00%
+
+
+BTC
+position: sell
+entry: 58760.566
+close: 58964.996
+profit: -1.04%
+
+
+BTC
+position: buy
+entry: 58872.113
+close: 58656.066
+profit: -1.10%
+
+
+BTC
+position: sell
+entry: 58560.055
+close: 58766.984
+profit: -1.06%
+
+
+BTC
+position: sell
+entry: 58558.836
+close: 58708.273
+profit: -0.77%
+
+
+BTC
+position: sell
+entry: 58404.445
+close: 58536.363
+profit: -0.68%
+
